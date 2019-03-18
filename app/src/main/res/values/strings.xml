@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Alert Dialog Demo</string>
+
+    <string name="dialog_title">Choose your Language</string>
+
+    <string name="select_language">Select Language</string>
+    <string name="following_languages">You Chose The Following Languages:</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Setswana</item>
+        <item>Kalanga</item>
+        <item>Shona</item>
+        <item>Ndebele</item>
+        <item>French</item>
+    </string-array>
+</resources>
